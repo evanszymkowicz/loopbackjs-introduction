@@ -12,3 +12,4 @@
 	-Application is called "meet-ups"
 	- run `sudo npm install --save loopback-connector-mongodb` to replace internal memory with a mongooose database for storage
 	- View on localhost 27017
+	-Requires MongoDB if running locally
